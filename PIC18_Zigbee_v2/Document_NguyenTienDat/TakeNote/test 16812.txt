@@ -1,0 +1,228 @@
+Init Hardware
+Init Zigbee
+
+R&D by WSAN-Lab411
+ZigBee-Router EMB
+Transceiver-MRF24J40
+Trying to join network as a new device!
+Network(s) found. Trying to join 1AAA | 0004A30001000000
+Join OK!
+Router Started! Enabling joins...
+My Network Address is 0x0009 now!
+#JN:143E02FF
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+#DF:000000011A2D0698AA
+#JN:000203FF
+#JN:287B05FF
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+#JN:035F07FF
+#JN:3CB806FF
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+#JN:50F508FF
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK1w0200000100$
+
+Dung PrintChar & GetHexByte: 33020000010099
+Dung ConsolePut: 
+0200000100
+Gui den dia chi: 0000
+Request Humid-Temp data from node 0000
+Sending message OK!
+#RF:0000011A470686E50950F5020A$
+
+Dung PrintChar & GetHexByte: 330950F5020A99
+Dung ConsolePut: 
+0950F5020A
+Gui den dia chi: 50F5
+Sending message OK!
+#SN:50F5080A0950F5020B$
+
+Dung PrintChar & GetHexByte: 330950F5020B99
+Dung ConsolePut: 
+0950F5020B
+Gui den dia chi: 50F5
+Sending message OK!
+#SN:50F5080B0950F5020C$
+
+Dung PrintChar & GetHexByte: 330950F5020C99
+Dung ConsolePut: 
+0950F5020C
+Gui den dia chi: 50F5
+Sending message OK!
+#SN:50F5080C0950F50200$
+
+Dung PrintChar & GetHexByte: 330950F5020099
+Dung ConsolePut: 
+0950F50200
+Gui den dia chi: 50F5
+Sending message OK!
+#SN:50F50800090000020A$
+
+Dung PrintChar & GetHexByte: 33090000020A99
+Dung ConsolePut: 
+090000020A
+Gui den dia chi: 0000
+Sending message OK!
+#SN:0000000A0900000200$
+
+Dung PrintChar & GetHexByte: 33090000020099
+Dung ConsolePut: 
+0900000200
+Gui den dia chi: 0000
+Sending message OK!
+#SN:00000000
+#JN:3CB806FF09143E020A$
+
+Dung PrintChar & GetHexByte: 3309143E020A99
+Dung ConsolePut: 
+09143E020A
+Gui den dia chi: 143E
+Sending message OK!
+#SN:143E020A02143E0101$
+
+Dung PrintChar & GetHexByte: 3302143E010199
+Dung ConsolePut: 
+02143E0101
+Gui den dia chi: 143E
+Request Humid-Temp data from node 143E
+Sending message OK!
+#RF:143E010000000051090002020B$
+
+Dung PrintChar & GetHexByte: 33090002020B99
+Dung ConsolePut: 
+090002020B
+Gui den dia chi: 0002
+Sending message OK!
+#SN:0002030B09287B020C$
+
+Dung PrintChar & GetHexByte: 3309287B020C99
+Dung ConsolePut: 
+09287B020C
+Gui den dia chi: 287B
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Sending message OK!093CB8020A$
+
+Dung PrintChar & GetHexByte: 33093CB8020A99
+Dung ConsolePut: 
+093CB8020A
+Gui den dia chi: 3CB8
+Sending message OK!
+#SN:3CB8060A09035F020C$
+
+Dung PrintChar & GetHexByte: 3309035F020C99
+Dung ConsolePut: 
+09035F020C
+Gui den dia chi: 035F
+Sending message OK!
+#SN:035F070C02035F0100$
+
+Dung PrintChar & GetHexByte: 3302035F010099
+Dung ConsolePut: 
+02035F0100
+Gui den dia chi: 035F
+Request Humid-Temp data from node 035F
+Sending message OK!
+#RF:035F01000000008E02035F0100$
+
+Dung PrintChar & GetHexByte: 3302035F010099
+Dung ConsolePut: 
+02035F0100
+Gui den dia chi: 035F
+Request Humid-Temp data from node 035F
+Sending message OK!
+#RF:035F01000000008E02143E0100$
+
+Dung PrintChar & GetHexByte: 3302143E010099
+Dung ConsolePut: 
+02143E0100
+Gui den dia chi: 143E
+Request Humid-Temp data from node 143E
+Sending message OK!
+#RF:143E01000000004E0200020100$
+
+Dung PrintChar & GetHexByte: 33020002010099
+Dung ConsolePut: 
+0200020100
+Gui den dia chi: 0002
+Request Humid-Temp data from node 0002
+Sending message OK!
+#RF:00020100000000340200020100$
+
+Dung PrintChar & GetHexByte: 33020002010099
+Dung ConsolePut: 
+0200020100
+Gui den dia chi: 0002
+Request Humid-Temp data from node 0002
+Sending message OK!
+#RF:00020100000000340200020100$
+
+Dung PrintChar & GetHexByte: 33020002010099
+Dung ConsolePut: 
+0200020100
+Gui den dia chi: 0002
+Request Humid-Temp data from node 0002
+Sending message OK!
+#RF:000201000000003409035F020D$
+
+Dung PrintChar & GetHexByte: 3309035F020D99
+Dung ConsolePut: 
+09035F020D
+Gui den dia chi: 035F
+Sending message OK!
+#SN:035F070D02287B0101$
+
+Dung PrintChar & GetHexByte: 3302287B010199
+Dung ConsolePut: 
+02287B0101
+Gui den dia chi: 287B
+Request Humid-Temp data from node 287B
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Sending message OK!09287B020C$
+
+Dung PrintChar & GetHexByte: 3309287B020C99
+Dung ConsolePut: 
+09287B020C
+Gui den dia chi: 287B
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Route Reply OK
+Sending message OK!

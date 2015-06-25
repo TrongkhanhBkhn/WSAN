@@ -1,0 +1,118 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+AM::0	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	20;"	d	line:20
+DS1307_ADD::0x68	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	18;"	d	line:18
+DS1307_H	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	9;"	d	line:9
+Delay2ms::Delay1KTCYx(2)	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	44;"	d	line:44
+Delay40us::Delay10TCYx(Fosc_MHz)	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	42;"	d	line:42
+Display_day	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	26;"	p	line:26	file:	signature:(unsigned char *pdata)
+Display_day	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	91;"	f	line:91	signature:(unsigned char *pdata)
+Display_time	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	25;"	p	line:25	file:	signature:(unsigned char *pdata)
+Display_time	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	69;"	f	line:69	signature:(unsigned char *pdata)
+FULL::2	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	22;"	d	line:22
+Fosc::4000000	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\generic.h	17;"	d	line:17
+Fosc_MHz::4	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\generic.h	18;"	d	line:18
+Fscl::100000	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\generic.h	19;"	d	line:19
+GENERIC_H	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\generic.h	9;"	d	line:9
+H	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.c	15;"	l	line:15
+H	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.c	22;"	l	line:22
+Init_LCD	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	3;"	f	line:3	signature:(void)
+Init_LCD	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	47;"	p	line:47	signature:(void)
+L	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.c	15;"	l	line:15
+L	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.c	22;"	l	line:22
+LCD_4b2l::0x28	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	34;"	d	line:34
+LCD_CMD	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	28;"	f	line:28	signature:(unsigned char cmd)
+LCD_CMD	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	53;"	p	line:53	signature:(unsigned char cmd)
+LCD_D4::LATBbits.LATB3	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	21;"	d	line:21
+LCD_D5::LATBbits.LATB4	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	22;"	d	line:22
+LCD_D6::LATBbits.LATB5	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	23;"	d	line:23
+LCD_D7::LATBbits.LATB6	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	24;"	d	line:24
+LCD_DATA	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	49;"	f	line:49	signature:(unsigned char data)
+LCD_DATA	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	56;"	p	line:56	signature:(unsigned char data)
+LCD_E::LATBbits.LATB2	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	19;"	d	line:19
+LCD_H	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	10;"	d	line:10
+LCD_IN_FLOAT	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	118;"	f	line:118	signature:(float d)
+LCD_IN_FLOAT	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	65;"	p	line:65	signature:( float d)
+LCD_IN_INTER	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	97;"	f	line:97	signature:(unsigned char d)
+LCD_IN_INTER	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	62;"	p	line:62	signature:(unsigned char d)
+LCD_OK	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	18;"	f	line:18	signature:(void)
+LCD_OK	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	50;"	p	line:50	signature:(void)
+LCD_RS::LATBbits.LATB0	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	17;"	d	line:17
+LCD_RW::LATBbits.LATB1	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	18;"	d	line:18
+LCD_clear::0x01	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	27;"	d	line:27
+LCD_home::0x02	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	28;"	d	line:28
+LCD_homeL1::0x80	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	35;"	d	line:35
+LCD_homeL2::0xC0	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	36;"	d	line:36
+LCD_normal::0x06	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	29;"	d	line:29
+LCD_off::0x08	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	30;"	d	line:30
+LCD_on::0x0C	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	31;"	d	line:31
+LCD_on_blink::0x0F	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	33;"	d	line:33
+LCD_on_crsr::0x0E	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	32;"	d	line:32
+PM::1	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	21;"	d	line:21
+READ::1	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	15;"	d	line:15
+WRITE::0	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	16;"	d	line:16
+a	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	71;"	l	line:71
+address	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	82;"	l	line:82
+b	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	72;"	l	line:72
+ba	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	95;"	l	line:95
+bay	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	99;"	l	line:99
+bcdToDec	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.c	20;"	f	line:20	signature:(unsigned char BCD)
+bcdToDec	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	37;"	p	line:37	signature:(unsigned char BCD)
+bon	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	96;"	l	line:96
+c	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	74;"	l	line:74
+ch	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	120;"	l	line:120
+ch1	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	73;"	l	line:73
+ch1	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	93;"	l	line:93
+cn	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	100;"	l	line:100
+decToBcd	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.c	13;"	f	line:13	signature:(unsigned char DEC)
+decToBcd	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	38;"	p	line:38	signature:(unsigned char DEC)
+e	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	121;"	l	line:121
+er	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	101;"	l	line:101
+get_ds1307	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	29;"	p	line:29	signature:(void)
+get_ds1307_day	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	63;"	p	line:63	file:
+get_ds1307_day	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.c	132;"	f	line:132	signature:(void)
+get_ds1307_day	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	28;"	p	line:28	signature:(void)
+get_ds1307_time	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	60;"	p	line:60	file:
+get_ds1307_time	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.c	103;"	f	line:103	signature:(void)
+get_ds1307_time	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	27;"	p	line:27	signature:(void)
+hai	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	94;"	l	line:94
+i	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	29;"	v	line:29
+i	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	121;"	l	line:121
+i	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	99;"	l	line:99
+i2c_config	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.c	7;"	f	line:7	signature:(void)
+i2c_config	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	25;"	p	line:25	signature:(void)
+i2c_wait	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	40;"	p	line:40	signature:(void)
+j	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	121;"	l	line:121
+j	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	99;"	l	line:99
+k	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	121;"	l	line:121
+k	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	99;"	l	line:99
+l	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	121;"	l	line:121
+l	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	99;"	l	line:99
+lcd_gotoxy	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	80;"	f	line:80	signature:(int x, int y)
+lcd_gotoxy	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	68;"	p	line:68	signature:(int x, int y)
+lcd_line_one::0x00	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	38;"	d	line:38
+lcd_line_two::0x40	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	39;"	d	line:39
+lcd_putstr	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	70;"	f	line:70	signature:(unsigned char *string)
+lcd_putstr	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.h	59;"	p	line:59	signature:(unsigned char *string)
+main	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	33;"	f	line:33	signature:(void)
+nam	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	97;"	l	line:97
+read_i2c_from_ds1307	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.c	46;"	f	line:46	signature:(unsigned char address,unsigned char *data,unsigned char val)
+read_i2c_from_ds1307	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	35;"	p	line:35	signature:(unsigned char address,unsigned char *data,unsigned char val)
+sau	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	98;"	l	line:98
+set_ds1307_day	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.c	93;"	f	line:93	signature:(unsigned char day,unsigned char date,unsigned char month,unsigned char year)
+set_ds1307_day	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	32;"	p	line:32	signature:(unsigned char day,unsigned char date,unsigned char month,unsigned char year)
+set_ds1307_time	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.c	78;"	f	line:78	signature:(unsigned char mode ,unsigned char sec,unsigned char min,unsigned char hour)
+set_ds1307_time	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	31;"	p	line:31	signature:(unsigned char mode ,unsigned char sec,unsigned char min,unsigned char hour)
+st1	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	35;"	l	line:35
+st2	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	36;"	l	line:36
+temp	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	29;"	v	line:29
+u	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\lcd.c	20;"	l	line:20
+udata	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\RTC.c	30;"	v	line:30
+write_i2c_to_ds1307	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.c	28;"	f	line:28	signature:(unsigned char address1,unsigned char *data1,unsigned char val1)
+write_i2c_to_ds1307	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\10_I2C_V1\RealtimeClock\ds1307.h	34;"	p	line:34	signature:(unsigned char address1,unsigned char *data1,unsigned char val1)

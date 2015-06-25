@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+duty_cycle_1::0x18	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\8_PWM_V1\ControlServo_Introduction\ControlServo.c	31;"	d	line:31	file:
+duty_cycle_2::0x19	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\8_PWM_V1\ControlServo_Introduction\ControlServo.c	32;"	d	line:32	file:
+enable_PWM_pin	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\8_PWM_V1\ControlServo_Introduction\ControlServo.c	36;"	f	line:36	signature:(void)
+main	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\8_PWM_V1\ControlServo_Introduction\ControlServo.c	45;"	f	line:45	signature:(void)
+period::249	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\8_PWM_V1\ControlServo_Introduction\ControlServo.c	33;"	d	line:33	file:

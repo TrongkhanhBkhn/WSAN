@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+InterruptServiceLow	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\RotateLed_Timer\RotateLed.c	133;"	f	line:133	signature:(void)
+InterruptServiceLow	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\RotateLed_Timer\RotateLed.c	41;"	p	line:41	file:	signature:(void)
+InterruptVectorLow	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\RotateLed_Timer\RotateLed.c	125;"	f	line:125	signature:(void)
+USE_MODE_16BITS	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\RotateLed_Timer\RotateLed.c	33;"	d	line:33	file:
+USE_POLLING	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\RotateLed_Timer\RotateLed.c	38;"	d	line:38	file:
+index	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\RotateLed_Timer\RotateLed.c	45;"	v	line:45
+init_timer0	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\RotateLed_Timer\RotateLed.c	48;"	f	line:48	signature:(char mode)
+k	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\RotateLed_Timer\RotateLed.c	45;"	v	line:45
+main	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\RotateLed_Timer\RotateLed.c	70;"	f	line:70	signature:(void)
+mode	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\RotateLed_Timer\RotateLed.c	72;"	l	line:72
+table	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\RotateLed_Timer\RotateLed.c	44;"	v	line:44

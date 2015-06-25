@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+InitCounterMode	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\HandCounter_Counter\CounterByHand.c	22;"	p	line:22	file:	signature:(void)
+InitCounterMode	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\HandCounter_Counter\CounterByHand.c	62;"	f	line:62	signature:(void)
+InterruptService	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\HandCounter_Counter\CounterByHand.c	21;"	p	line:21	file:	signature:(void)
+InterruptService	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\HandCounter_Counter\CounterByHand.c	52;"	f	line:52	signature:(void)
+InterruptVector	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\HandCounter_Counter\CounterByHand.c	44;"	f	line:44
+LookupTable	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\HandCounter_Counter\CounterByHand.c	25;"	v	line:25
+index	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\HandCounter_Counter\CounterByHand.c	26;"	v	line:26
+main	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\HandCounter_Counter\CounterByHand.c	28;"	f	line:28

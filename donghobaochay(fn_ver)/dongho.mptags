@@ -1,0 +1,32 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+Display	F:\khanh\machdongho(fn_ver)\dongho.c	125;"	f	line:125
+Display	F:\khanh\machdongho(fn_ver)\dongho.c	31;"	p	line:31	file:
+Init_Rec_UART	F:\khanh\machdongho(fn_ver)\dongho.c	117;"	f	line:117	signature:(void)
+Init_Rec_UART	F:\khanh\machdongho(fn_ver)\dongho.c	29;"	p	line:29	file:
+Init_Tran_UART	F:\khanh\machdongho(fn_ver)\dongho.c	111;"	f	line:111	signature:(void)
+Init_Tran_UART	F:\khanh\machdongho(fn_ver)\dongho.c	28;"	p	line:28	file:
+Init_UART	F:\khanh\machdongho(fn_ver)\dongho.c	27;"	p	line:27	file:
+Init_UART	F:\khanh\machdongho(fn_ver)\dongho.c	96;"	f	line:96	signature:(void)
+Interrupt_service	F:\khanh\machdongho(fn_ver)\dongho.c	30;"	p	line:30	file:
+Interrupt_service	F:\khanh\machdongho(fn_ver)\dongho.c	89;"	f	line:89
+Osc	F:\khanh\machdongho(fn_ver)\dongho.c	37;"	f	line:37
+Pwm_init	F:\khanh\machdongho(fn_ver)\dongho.c	44;"	f	line:44
+Tran_UART	F:\khanh\machdongho(fn_ver)\dongho.c	32;"	f	line:32	signature:(unsigned char ch)
+VITRI	F:\khanh\machdongho(fn_ver)\dongho.c	16;"	v	line:16
+VITRI_1::68	F:\khanh\machdongho(fn_ver)\dongho.c	19;"	d	line:19	file:
+VITRI_2::80	F:\khanh\machdongho(fn_ver)\dongho.c	20;"	d	line:20	file:
+VITRI_3::96	F:\khanh\machdongho(fn_ver)\dongho.c	21;"	d	line:21	file:
+VITRI_4::112	F:\khanh\machdongho(fn_ver)\dongho.c	23;"	d	line:23	file:
+VITRI_5::125	F:\khanh\machdongho(fn_ver)\dongho.c	24;"	d	line:24	file:
+a	F:\khanh\machdongho(fn_ver)\dongho.c	17;"	v	line:17
+data	F:\khanh\machdongho(fn_ver)\dongho.c	127;"	l	line:127
+index	F:\khanh\machdongho(fn_ver)\dongho.c	16;"	v	line:16
+interrupt_vector	F:\khanh\machdongho(fn_ver)\dongho.c	82;"	f	line:82
+main	F:\khanh\machdongho(fn_ver)\dongho.c	52;"	f	line:52

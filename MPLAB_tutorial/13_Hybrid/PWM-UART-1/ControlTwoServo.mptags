@@ -1,0 +1,40 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+DCycle1	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	149;"	l	line:149
+DCycle2	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	161;"	l	line:161
+PERIOD::249	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	35;"	d	line:35	file:
+PWMDC	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	41;"	u	line:41	file:
+ZERO::94	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	36;"	d	line:36	file:
+arr_temp	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	195;"	l	line:195
+bpwm	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	44;"	m	line:44	union:PWMDC	file:
+config_Timer2	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	171;"	f	line:171	signature:(void)
+confirm	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	55;"	v	line:55
+data	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	51;"	v	line:51
+duty	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	196;"	l	line:196
+duty_cycle_1	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	262;"	l	line:262
+duty_cycle_2	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	262;"	l	line:262
+flag	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	48;"	v	line:48
+getValue	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	193;"	f	line:193	signature:(char parameter)
+get_decimal_value	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	182;"	f	line:182	signature:(char *pointer)
+getback	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	55;"	v	line:55
+i	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	48;"	v	line:48
+init_PWM	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	137;"	f	line:137	signature:(unsigned char period)
+init_uart_recep	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	87;"	f	line:87	signature:(void)
+init_uart_trans	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	62;"	f	line:62	signature:(void)
+interrupt_uart	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	127;"	p	line:127	file:	signature:(void)
+interrupt_uart	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	315;"	f	line:315	signature:(void)
+interrupt_vector	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	306;"	f	line:306	signature:(void)
+introduction	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	56;"	v	line:56
+lpwm	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	43;"	m	line:43	union:PWMDC	file:
+main	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	259;"	f	line:259	signature:(void)
+note	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	54;"	v	line:54
+putsUART	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	116;"	f	line:116	signature:(char *string)
+renew	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	55;"	v	line:55
+set_duty_1	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	147;"	f	line:147	signature:(unsigned int duty_cycle)
+set_duty_2	C:\Users\TienDat\Desktop\Actor\MPLAB_tutorial\13_Hybrid\PWM-UART-1\ControlTwoServo.c	159;"	f	line:159	signature:(unsigned int duty_cycle)

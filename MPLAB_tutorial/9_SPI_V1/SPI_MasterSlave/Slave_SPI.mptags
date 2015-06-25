@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+Digital::0	C:\Users\NguyenTienDat\Desktop\Actor0603\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Slave_SPI.c	33;"	d	line:33	file:
+InitSPISlave	C:\Users\NguyenTienDat\Desktop\Actor0603\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Slave_SPI.c	37;"	p	line:37	file:	signature:(void)
+InitSPISlave	C:\Users\NguyenTienDat\Desktop\Actor0603\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Slave_SPI.c	63;"	f	line:63	signature:(void)
+Led7_lat::LATD	C:\Users\NguyenTienDat\Desktop\Actor0603\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Slave_SPI.c	31;"	d	line:31	file:
+Led7_tris::TRISD	C:\Users\NguyenTienDat\Desktop\Actor0603\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Slave_SPI.c	30;"	d	line:30	file:
+RA5_SS::ANSELbits.ANS4	C:\Users\NguyenTienDat\Desktop\Actor0603\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Slave_SPI.c	32;"	d	line:32	file:
+ReadOldData	C:\Users\NguyenTienDat\Desktop\Actor0603\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Slave_SPI.c	76;"	l	line:76
+ReceiveData	C:\Users\NguyenTienDat\Desktop\Actor0603\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Slave_SPI.c	38;"	p	line:38	file:	signature:(void)
+ReceiveData	C:\Users\NguyenTienDat\Desktop\Actor0603\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Slave_SPI.c	74;"	f	line:74	signature:(void)
+main	C:\Users\NguyenTienDat\Desktop\Actor0603\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Slave_SPI.c	41;"	f	line:41	signature:(void)

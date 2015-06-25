@@ -1,0 +1,227 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\DemoPIC18Coordinator\objects\Coordinator.o
+Folder=Intermediary
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=-Ls -pa=4 -nw=2066
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\Microchip\Common\objects\Console.o
+Folder=Intermediary
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=-Ls -pa=4 -nw=2066
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\Microchip\Common\objects\MSPI.o
+Folder=Intermediary
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=-Ls -pa=4 -nw=2066
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\DemoPIC18Coordinator\objects\myZigBee.o
+Folder=Intermediary
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=-Ls -pa=4 -nw=2066
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\Microchip\Common\objects\sralloc.o
+Folder=Intermediary
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=-Ls -pa=4 -nw=2066
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\Microchip\ZigBeeStack\objects\SymbolTime.o
+Folder=Intermediary
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=-Ls -pa=4 -nw=2066
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\Microchip\ZigBeeStack\objects\zAPS.o
+Folder=Intermediary
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=-Ls -pa=4 -nw=2066
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\Microchip\ZigBeeStack\objects\ZigbeeTasks.o
+Folder=Intermediary
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=-Ls -pa=4 -nw=2066
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\Microchip\ZigBeeStack\objects\zMAC_MRF24J40.o
+Folder=Intermediary
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=-Ls -pa=4 -nw=2066
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\Microchip\ZigBeeStack\objects\zNVM.o
+Folder=Intermediary
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=-Ls -pa=4 -nw=2066
+TraceCmdString=
+DebugOptions=
+[File010]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\Microchip\ZigBeeStack\objects\zNWK.o
+Folder=Intermediary
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=-Ls -pa=4 -nw=2066
+TraceCmdString=
+DebugOptions=
+[File011]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\Microchip\ZigBeeStack\objects\zPHY_MRF24J40.o
+Folder=Intermediary
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=-Ls -pa=4 -nw=2066
+TraceCmdString=
+DebugOptions=
+[File012]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\Microchip\ZigBeeStack\objects\zZDO.o
+Folder=Intermediary
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=-Ls -pa=4 -nw=2066
+TraceCmdString=
+DebugOptions=
+[File013]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\Microchip\Common\objects\delay.o
+Folder=Intermediary
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=-Ls -pa=4 -nw=2066
+TraceCmdString=
+DebugOptions=
+[File014]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\Microchip\Common\objects\SHT1x.o
+Folder=Intermediary
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=-Ls -pa=4 -nw=2066
+TraceCmdString=
+DebugOptions=
+[File015]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\DemoPIC18Coordinator\DemoPIC18Coordinator.cof
+Folder=Output
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=/w /o"$(BINDIR_)$(TARGETBASE).cof"
+TraceCmdString=
+DebugOptions=
+[File016]
+Location=C:\Users\TienDat\Desktop\ActorHome\PIC18_Zigbee_v2\PIC18_Zigbee_R&D_by_Lab411\DemoPIC18Coordinator\DemoPIC18Coordinator.hex
+Folder=Output
+DeviceName=PIC18F26K20
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc18\v3.43\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)|.\objects||$(AINDIR)||$(INCDIR)|C:\MCC18\h;.;..\microchip\Common;..\common;..\..\microchip\ZigBeeStack;..\..\DemoPIC18Coordinator;..\microchip\ZigBeeStack||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)|C:\MCC18\lkr;C:\Program Files\Microchip\MPASM Suite\LKR||
+SOLK=<src>|Coordinator.c|..\microchip\Common\Console.c|..\microchip\Common\MSPI.c|myZigBee.c|..\microchip\Common\sralloc.c|..\microchip\ZigBeeStack\SymbolTime.c|..\microchip\ZigBeeStack\zAPS.c|..\microchip\ZigBeeStack\ZigbeeTasks.c|..\microchip\ZigBeeStack\zMAC_MRF24J40.c|..\microchip\ZigBeeStack\zNVM.c|..\microchip\ZigBeeStack\zNWK.c|..\microchip\ZigBeeStack\zPHY_MRF24J40.c|..\microchip\ZigBeeStack\zZDO.C|..\Microchip\Common\delay.c|..\Microchip\Common\SHT1x.c||<obj>||<lib>||<lkr>|zLink.lkr||
+SuiteArgsString=
+ToolArgsString=/w /o"$(BINDIR_)$(TARGETBASE).cof"
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{96C98149-AA1B-4CF9-B967-FAE79CAB663C}=C:\Program Files\Microchip\mplabc18\v3.43\bin\mplink.exe
+tool_loc{E56A1C86-9D32-4DF6-8C34-FE0388B1B644}=C:\Program Files\Microchip\mplabc18\v3.43\bin\mcc18.exe

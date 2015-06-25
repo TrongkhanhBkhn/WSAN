@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+InitSPIMaster	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Master_SPI.c	34;"	p	line:34	file:	signature:(void)
+InitSPIMaster	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Master_SPI.c	71;"	f	line:71	signature:(void)
+LookupTable	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Master_SPI.c	41;"	l	line:41
+ReadOldData	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Master_SPI.c	84;"	l	line:84
+SS_pin_lat::LATDbits.LATD0	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Master_SPI.c	31;"	d	line:31	file:
+SS_pin_tris::TRISDbits.TRISD0	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Master_SPI.c	30;"	d	line:30	file:
+TransmitData	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Master_SPI.c	35;"	p	line:35	file:	signature:(unsigned char Data)
+TransmitData	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Master_SPI.c	82;"	f	line:82	signature:(unsigned char Data)
+index	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Master_SPI.c	42;"	l	line:42
+main	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\9_SPI_V1\SPI_MasterSlave\Master_SPI.c	38;"	f	line:38	signature:(void)

@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+COUNTER_MODE::0xFF	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	3;"	d	line:3
+ENABLE_TMR0::0xFF	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	1;"	d	line:1
+HIGH_TO_LOW::0xFF	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	4;"	d	line:4
+InterruptServiceLow	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\BlinkLed.c	109;"	f	line:109	signature:(void)
+InterruptServiceLow	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\BlinkLed.c	38;"	p	line:38	file:	signature:(void)
+InterruptVectorLow	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\BlinkLed.c	102;"	f	line:102	signature:(void)
+LOW_TO_HIGH::0b11101111	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	10;"	d	line:10
+MODE_16_BITS::0b10111111	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	8;"	d	line:8
+MODE_8_BITS::0xFF	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	2;"	d	line:2
+NOT_USE_PRESCALE::0xFF	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	5;"	d	line:5
+PRES_128::0b11111110	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	12;"	d	line:12
+PRES_16::0b11111011	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	15;"	d	line:15
+PRES_256::0xFF	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	6;"	d	line:6
+PRES_2::0b11111000	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	18;"	d	line:18
+PRES_32::0b11111100	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	14;"	d	line:14
+PRES_4::0b11111001	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	17;"	d	line:17
+PRES_64::0b11111101	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	13;"	d	line:13
+PRES_8::0b11111010	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	16;"	d	line:16
+STOP_TMR0::0b01111111	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	7;"	d	line:7
+TIMER_MODE::0b11011111	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	9;"	d	line:9
+USE_INTERRUPT	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\BlinkLed.c	35;"	d	line:35	file:
+USE_PRESCALE::0b11110111	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\MyDef.h	11;"	d	line:11
+init_timer0	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\BlinkLed.c	42;"	f	line:42	signature:(char mode)
+main	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\BlinkLed.c	64;"	f	line:64	signature:(void)
+mode	D:\Lab411\PIC\C18 for PIC\MPLAB_tutorial\3_TimerCounter_V1\BlinkLed_Timer\BlinkLed.c	66;"	l	line:66
